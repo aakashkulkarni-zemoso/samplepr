@@ -1,1 +1,3 @@
-this text is on the pr branch
+this text is on the master branch
+
+adding more lines to the sample branch
